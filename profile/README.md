@@ -39,5 +39,3 @@ The doors are open, but only for those ready to explore what’s beyond:
 ## License
 
 All **CodeFrame Studios** projects, including **Main**, are licensed under the **CodeBit License**.
-
-For more details, refer to the [LICENSE](LICENSE) file.
