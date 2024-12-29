@@ -151,7 +151,7 @@ You agree not to use **CodeBit** or any of its components for malicious or harmf
 You agree to cooperate with **CodeFrame Studios** in investigating and resolving any violations of this License.
 
 ## 49. Jurisdiction and Dispute Resolution
-Any legal disputes under this License shall be governed by the laws of **[Your Jurisdiction]**. Any disputes will be resolved through binding arbitration.
+Any legal disputes under this License shall be governed by the laws of **California, United States of America**. Any disputes will be resolved through binding arbitration.
 
 ## 50. Binding Agreement
 This License constitutes a binding agreement between you and **CodeFrame Studios**.
